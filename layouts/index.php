@@ -6,7 +6,7 @@
     <title>Form</title>
 </head>
 <body>
-    <form action="../form/form-login.php" method="post">
+    <form action="../form/form-login-post.php" method="post">
         <input type="email" name="email" id="email" placeholder="email" required>
         <input type="password"  name="password" id="password" placeholder="password" required>
         <input type="submit" name="btnSub"  id="submit-button" value="Submit">
